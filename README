@@ -1,0 +1,5 @@
+Turns out that this functionality already exists in rubygems itself (aren't those guys great?)
+
+gem build xxx.gemspec
+
+# done!
